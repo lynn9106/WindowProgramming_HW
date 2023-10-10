@@ -1,0 +1,14 @@
+C:\Users\黃琳\source\repos\bomb\bomb\bin\Debug\bomb.exe.config
+C:\Users\黃琳\source\repos\bomb\bomb\bin\Debug\bomb.exe
+C:\Users\黃琳\source\repos\bomb\bomb\bin\Debug\bomb.pdb
+C:\Users\黃琳\source\repos\bomb\bomb\obj\Debug\bomb.csprojAssemblyReference.cache
+C:\Users\黃琳\source\repos\bomb\bomb\obj\Debug\bomb.csproj.CoreCompileInputs.cache
+C:\Users\黃琳\source\repos\bomb\bomb\obj\Debug\bomb.exe
+C:\Users\黃琳\source\repos\bomb\bomb\obj\Debug\bomb.pdb
+C:\Users\黃琳\OneDrive\桌面\e94091071_W3_practice_2\bomb\bin\Debug\bomb.exe.config
+C:\Users\黃琳\OneDrive\桌面\e94091071_W3_practice_2\bomb\bin\Debug\bomb.exe
+C:\Users\黃琳\OneDrive\桌面\e94091071_W3_practice_2\bomb\bin\Debug\bomb.pdb
+C:\Users\黃琳\OneDrive\桌面\e94091071_W3_practice_2\bomb\obj\Debug\bomb.csprojAssemblyReference.cache
+C:\Users\黃琳\OneDrive\桌面\e94091071_W3_practice_2\bomb\obj\Debug\bomb.csproj.CoreCompileInputs.cache
+C:\Users\黃琳\OneDrive\桌面\e94091071_W3_practice_2\bomb\obj\Debug\bomb.exe
+C:\Users\黃琳\OneDrive\桌面\e94091071_W3_practice_2\bomb\obj\Debug\bomb.pdb

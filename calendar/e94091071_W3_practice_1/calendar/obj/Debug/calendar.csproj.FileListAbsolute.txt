@@ -1,0 +1,7 @@
+C:\Users\黃琳\OneDrive\桌面\calendar\calendar\obj\Debug\calendar.csprojAssemblyReference.cache
+C:\Users\黃琳\OneDrive\桌面\calendar\calendar\obj\Debug\calendar.csproj.CoreCompileInputs.cache
+C:\Users\黃琳\OneDrive\桌面\calendar\calendar\bin\Debug\calendar.exe.config
+C:\Users\黃琳\OneDrive\桌面\calendar\calendar\bin\Debug\calendar.exe
+C:\Users\黃琳\OneDrive\桌面\calendar\calendar\bin\Debug\calendar.pdb
+C:\Users\黃琳\OneDrive\桌面\calendar\calendar\obj\Debug\calendar.exe
+C:\Users\黃琳\OneDrive\桌面\calendar\calendar\obj\Debug\calendar.pdb

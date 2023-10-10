@@ -1,0 +1,7 @@
+C:\Users\黃琳\OneDrive\桌面\blackjack\blackjack\bin\Debug\blackjack.exe.config
+C:\Users\黃琳\OneDrive\桌面\blackjack\blackjack\bin\Debug\blackjack.exe
+C:\Users\黃琳\OneDrive\桌面\blackjack\blackjack\bin\Debug\blackjack.pdb
+C:\Users\黃琳\OneDrive\桌面\blackjack\blackjack\obj\Debug\blackjack.csprojAssemblyReference.cache
+C:\Users\黃琳\OneDrive\桌面\blackjack\blackjack\obj\Debug\blackjack.csproj.CoreCompileInputs.cache
+C:\Users\黃琳\OneDrive\桌面\blackjack\blackjack\obj\Debug\blackjack.exe
+C:\Users\黃琳\OneDrive\桌面\blackjack\blackjack\obj\Debug\blackjack.pdb

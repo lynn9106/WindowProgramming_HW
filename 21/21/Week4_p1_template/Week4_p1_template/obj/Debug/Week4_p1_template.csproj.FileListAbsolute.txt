@@ -1,0 +1,7 @@
+C:\Users\黃琳\Downloads\21\Week4_p1_template\Week4_p1_template\bin\Debug\Week4_p1_template.exe.config
+C:\Users\黃琳\Downloads\21\Week4_p1_template\Week4_p1_template\bin\Debug\Week4_p1_template.exe
+C:\Users\黃琳\Downloads\21\Week4_p1_template\Week4_p1_template\bin\Debug\Week4_p1_template.pdb
+C:\Users\黃琳\Downloads\21\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.csprojAssemblyReference.cache
+C:\Users\黃琳\Downloads\21\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.csproj.CoreCompileInputs.cache
+C:\Users\黃琳\Downloads\21\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.exe
+C:\Users\黃琳\Downloads\21\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.pdb

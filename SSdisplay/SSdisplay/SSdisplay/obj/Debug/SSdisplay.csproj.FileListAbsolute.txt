@@ -1,0 +1,10 @@
+C:\Users\黃琳\OneDrive\桌面\SSdisplay\SSdisplay\bin\Debug\SSdisplay.exe.config
+C:\Users\黃琳\OneDrive\桌面\SSdisplay\SSdisplay\bin\Debug\SSdisplay.exe
+C:\Users\黃琳\OneDrive\桌面\SSdisplay\SSdisplay\bin\Debug\SSdisplay.pdb
+C:\Users\黃琳\OneDrive\桌面\SSdisplay\SSdisplay\obj\Debug\SSdisplay.csprojAssemblyReference.cache
+C:\Users\黃琳\OneDrive\桌面\SSdisplay\SSdisplay\obj\Debug\SSdisplay.Form1.resources
+C:\Users\黃琳\OneDrive\桌面\SSdisplay\SSdisplay\obj\Debug\SSdisplay.Properties.Resources.resources
+C:\Users\黃琳\OneDrive\桌面\SSdisplay\SSdisplay\obj\Debug\SSdisplay.csproj.GenerateResource.cache
+C:\Users\黃琳\OneDrive\桌面\SSdisplay\SSdisplay\obj\Debug\SSdisplay.csproj.CoreCompileInputs.cache
+C:\Users\黃琳\OneDrive\桌面\SSdisplay\SSdisplay\obj\Debug\SSdisplay.exe
+C:\Users\黃琳\OneDrive\桌面\SSdisplay\SSdisplay\obj\Debug\SSdisplay.pdb

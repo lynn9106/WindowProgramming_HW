@@ -1,0 +1,10 @@
+C:\Users\黃琳\OneDrive\桌面\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+C:\Users\黃琳\OneDrive\桌面\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+C:\Users\黃琳\OneDrive\桌面\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+C:\Users\黃琳\OneDrive\桌面\Gomoku\Gomoku\obj\Debug\Gomoku.csprojAssemblyReference.cache
+C:\Users\黃琳\OneDrive\桌面\Gomoku\Gomoku\obj\Debug\Gomoku.Form1.resources
+C:\Users\黃琳\OneDrive\桌面\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+C:\Users\黃琳\OneDrive\桌面\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.cache
+C:\Users\黃琳\OneDrive\桌面\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\黃琳\OneDrive\桌面\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+C:\Users\黃琳\OneDrive\桌面\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
